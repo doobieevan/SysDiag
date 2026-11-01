@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34230840/README.md)
 # SysDiag — Windows system health-check tool
 
 A self-contained, one-shot Windows diagnostics tool: a **PowerShell engine**
